@@ -1,6 +1,6 @@
 <h2>python examples</h2>
 <div style="border: 2px solid white; backgroud-color: grey;"> 
-  <h3>A simple python app thats shows the use of curses in the macos terminal</h3>
+  <h3>One of two simple python apps that shows the use of curses in the macos terminal.</h3>
   <img src="https://github.com/Stephen-Harold/pythonCursesExample/blob/f494890c3e3dd7d0569d87dd6bf0110e72fa4b8c/pythonCursesScreenshot.png" width=75% />
 </div>
 <div style="border: 2px solid white; backgroud-color: grey;">
